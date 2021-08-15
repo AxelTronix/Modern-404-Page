@@ -2,7 +2,7 @@
 
 A **Modern 404 Page** that fits well with most developer sites!
 
-![](https://cdn.discordapp.com/attachments/851650166473097217/876590711993151608/749ec6861d89b0044e70eccf2f98e60b.png)
+![](https://i.gyazo.com/eebe53cb16940c52a99291145b8ba051.png)
 
 ---
 
