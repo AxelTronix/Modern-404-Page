@@ -23,16 +23,25 @@
       font-weight: bold;
       font-size: 48px;
       letter-spacing: 1px;
-      padding-top: 90px;
+      padding-top: 40px;
       transition: color .5s;
   }
+
+  .body .below .FouRoFour {
+    color: white;
+    font-weight: bold;
+    font-size: 48px;
+    letter-spacing: 1px;
+    padding-top: 20px;
+    transition: color .5s;
+}
 
   .body .below .maintext:hover {
     color: #007ee6;
     font-weight: bold;
     font-size: 48px;
     letter-spacing: 1px;
-    padding-top: 90px;
+    padding-top: 41px;
 }
 
   .body .below .maintext2 {
