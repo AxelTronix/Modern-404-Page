@@ -1,0 +1,66 @@
+.body {
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+      background-color: #1b1919;
+      
+  }
+
+
+  .body .below {
+      height: 475px;
+      width: 825px;
+      background-color: #1b1919;
+      box-shadow: 0 0 30px rgba(0,0,0,0.8);
+      border-left: 5px solid rgba(29, 135, 255, 0.9);
+      margin-top: 225px;
+      margin-left: 515px;
+      margin-right: auto;
+      border-radius: 5px;
+  }
+
+  .body .below .maintext {
+      color: white;
+      font-weight: bold;
+      font-size: 48px;
+      letter-spacing: 1px;
+      padding-top: 90px;
+      transition: color .5s;
+  }
+
+  .body .below .maintext:hover {
+    color: #007ee6;
+    font-weight: bold;
+    font-size: 48px;
+    letter-spacing: 1px;
+    padding-top: 90px;
+}
+
+  .body .below .maintext2 {
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    letter-spacing: 1px;
+    padding-top: 1px;
+}
+
+.body .below .returnhomebuttona {
+    color: white;
+    font-size: 26px;
+    padding-top: 20px;
+    transition: font-size .2s, font-weight .2s, stroke .2s;
+}
+
+.body .below .returnhomebuttona:hover {
+    color: white;
+    font-size: 28px;
+    stroke: black;
+}
+
+.body .below .copyright {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding-top: 120px;
+    font-weight: bold;
+}
