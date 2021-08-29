@@ -7,7 +7,7 @@ A **Modern 404 Page** that fits well with most developer sites!
 ---
 
 ### Credits:
-- Programming by [Tronix]()
+- Made by [Tronix]()
 
 ```cs
 Enjoy!
